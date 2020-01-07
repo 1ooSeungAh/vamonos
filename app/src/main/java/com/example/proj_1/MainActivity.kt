@@ -9,6 +9,10 @@ class MainActivity : WearableActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
+
+
+
         // Enables Always-on
         setAmbientEnabled()
     }
