@@ -14,6 +14,6 @@ class MainActivity : WearableActivity() {
 
 
         // Enables Always-on
-        setAmbientEnabled()
+       // setAmbientEnabled()
     }
 }
